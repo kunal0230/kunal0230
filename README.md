@@ -21,13 +21,10 @@ I’m always eager to explore new research opportunities and collaborate with di
 | Python                      | OpenCV, TensorFlow, PyTorch     | Git                        | Machine Learning         |
 | Java                        | Keras, Scikit-image, Matplotlib | AWS (Basic)                | Computer Vision          |
 | SQL                         | NumPy, Pandas                   | Tableau                    | Image Processing         |
-| MATLAB                      |                                 |                            |                          |
+| MATLAB                      |                                 |                            | Data Science             |
 
 
-### Domains
-- Machine Learning
-- Computer Vision
-- Image Processing
+
 
 ---
 
