@@ -16,26 +16,13 @@ I’m always eager to explore new research opportunities and collaborate with di
 
 ## 🚀 Skills & Tools
 
-### Programming Languages
-- Python
-- Java
-- SQL
+| **Programming Languages**  | **Libraries & Frameworks**       | **Tools & Platforms**      | **Domains**              |
+|-----------------------------|----------------------------------|----------------------------|--------------------------|
+| Python                      | OpenCV, TensorFlow, PyTorch     | Git                        | Machine Learning         |
+| Java                        | Keras, Scikit-image, Matplotlib | AWS (Basic)                | Computer Vision          |
+| SQL                         | NumPy, Pandas                   | Tableau                    | Image Processing         |
+| MATLAB                      |                                 |                            |                          |
 
-### Libraries & Frameworks
-- OpenCV
-- TensorFlow
-- PyTorch
-- Keras
-- NumPy
-- Pandas
-- Scikit-image
-- Matplotlib
-- MATLAB
-
-### Tools & Platforms
-- Git
-- AWS (Basic)
-- Tableau
 
 ### Domains
 - Machine Learning
