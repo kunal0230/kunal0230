@@ -1,7 +1,7 @@
 # Hi there, I'm Kunal Chaugule! 👋
 
 🎓 **4th Year Data Science Engineering Student at Mumbai University**  
-💻 **Junior Machine Learning Engineer | Aspiring Master's Student in Computer Vision**  
+💻 **Junior Machine Learning Engineer | 
 🏆 **Smart India Hackathon 2023 Champion**  
 
 ---
