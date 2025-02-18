@@ -39,6 +39,7 @@ I’m always eager to explore new research opportunities and collaborate with di
 - [LinkedIn](https://linkedin.com/in/kunal-chaugule)
 - [GitHub](https://github.com/kunal0230)
 - [Medium](https://medium.com/@kunalchaugule.2003)
+- [Website](https://www.kunalchaugule.com/)
 
 ---
 
