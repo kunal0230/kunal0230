@@ -43,10 +43,19 @@ I’m always eager to explore new research opportunities and collaborate with di
 
 ---
 
+
+
+
+
 ## 🌱 Current Projects
 
 - **Depth Perception**: Real-time depth estimation using monocular camera systems.
 - ## 🛠 Projects
+
+### [Virtual Piano - Interactive Music Application Using Computer Vision](https://www.youtube.com/shorts/ZdxvdxJ5CQM)
+- Created an interactive virtual piano using OpenCV and MediaPipe for hand movement detection and segmentation.
+- Enabled dynamic screen-based musical interaction.
+
 
 ### [FITLIFE - Exercise Tracking and Guidance Web App](https://github.com/kunal0230/FITLIFE)
 - Developed a web app for pose estimation and exercise tracking using custom ML models.
@@ -66,10 +75,6 @@ I’m always eager to explore new research opportunities and collaborate with di
 - Integrated machine learning-based navigation using TensorFlow and OpenCV.
 
 ---
-
-### [Virtual Piano - Interactive Music Application Using Computer Vision](https://www.youtube.com/shorts/ZdxvdxJ5CQM)
-- Created an interactive virtual piano using OpenCV and MediaPipe for hand movement detection and segmentation.
-- Enabled dynamic screen-based musical interaction.
 
 
 ---
